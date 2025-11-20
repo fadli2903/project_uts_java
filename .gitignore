@@ -1,2 +1,17 @@
+# compiled class files
 *.class
-*/.class
+
+# VSCode settings
+.vscode/
+
+# build folders
+bin/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
